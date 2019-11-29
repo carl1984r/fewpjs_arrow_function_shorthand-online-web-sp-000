@@ -1,2 +1,1 @@
-
-function divide() {};
+let divide = (x,y) => x/y
